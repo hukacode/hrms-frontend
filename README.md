@@ -1,0 +1,1 @@
+[![Build and Deploy](https://github.com/hukacode/hrms-frontend/actions/workflows/build-deploy.yml/badge.svg)](https://github.com/hukacode/hrms-frontend/actions/workflows/build-deploy.yml)  
